@@ -6,4 +6,12 @@ This repository contains the (little) code used for an "Introduction to Software
 
 The robot was a quick and dirty (no arms) version of [Lego Mindstorms EV3STORM](http://www.lego.com/en-us/mindstorms), running [topikachu's python-ev3](https://github.com/topikachu/python-ev3) a project that let you run python code on the EV3. based on a modefied version of the [lejos kernel](http://sourceforge.net/projects/lejos/).
 
+![The robot](readme-resources/robot.jpg?raw=true)
+
 The python code I run on the EV3 is a very simple HTTP server utilizing topikachu ev3 motor driver. On the client I created a little web page to allow the kids to run any one of an 8 predefined robot moves, or "record" a sequence of the move commands then send them to the robot.
+
+![Web interface](readme-resources/web-interface.png?raw=true)
+
+##### Great success!
+
+![Astonished kids](readme-resources/kids.jpg?raw=true)
